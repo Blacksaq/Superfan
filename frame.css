@@ -1,0 +1,87 @@
+body {
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	margin: 0;
+}
+.Lore{
+	height: 100vh;
+	width: calc(100vw/6);
+	background-color: #D4AF37;
+}
+
+.Figures{
+	height: 100vh;
+	width: calc(100vw/6);
+	background-color: #00FFFF;
+}
+
+.Factions{
+	height: 100vh;
+	width: calc(100vw/6);
+	background-color: #9168B2;
+}
+
+.Warframes{
+	height: 100vh;
+	width: calc(100vw/6);
+	background-color: #545454;
+	image: url(prime.png)
+}
+
+.Evolution{
+	height: 100vh;
+	width: calc(100vw/6);
+	background-color: #000000;
+}
+
+.Art{
+	height: 100vh;
+	width: calc(100vw/6);
+	background-color: #ffffff;
+}
+	@media screen and (max-width: 800px){
+	body {
+	width: 100vw;
+	height: 100vh;
+	display: block;
+	margin: 0;
+}
+
+	.Lore{
+	height: calc(100vh/6);
+	width: 100vw;
+	background-color: #D4AF37;
+}
+
+.Figures{
+height: calc(100vh/6);
+	width: 100vw;
+	background-color: #00FFFF;
+}
+
+.Factions{
+	height: calc(100vh/6);
+	width: 100vw;
+	background-color: #9168B2;
+}
+
+.Warframes{
+	height: calc(100vh/6);
+	width: 100vw;
+	background-color: #545454;
+	image: url(prime.png)
+}
+
+.Evolution{
+	height: calc(100vh/6);
+	width: 100vw;
+	background-color: #000000;
+}
+
+.Art{
+	height: calc(100vh/6);
+	width: 100vw;
+	background-color: #ffffff;
+}
+}
