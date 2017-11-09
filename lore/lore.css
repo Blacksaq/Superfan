@@ -22,6 +22,7 @@ font-family: Impact;
 .square{
 display: flex;
 padding: 4vw;
+  background-color: blue;
 }
 
 .stakz{
