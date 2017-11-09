@@ -19,9 +19,19 @@ font-weight: bold;
 font-family: Impact;
 }
 
+.square{
+display: flex;
+}
+
 .stakz{
 background-color: #23d44a;
-width:30vw;
-height: 10vh; 
+width:45vw;
+height: 15vh; 
 padding: 2vw;
+}
+
+.pic{
+width: 10vw;
+height: 10vw;
+background-color: #ffffff;
 }
