@@ -19,6 +19,10 @@ font-weight: bold;
 font-family: Impact;
 }
 
+.omni{
+display: block;
+}
+
 .square{
 display: flex;
 padding: 4vw;
