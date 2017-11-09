@@ -41,6 +41,12 @@ height: 20vh;
 background-color: #ffffff;
 }
 
+.square{
+display: flex;
+padding: 4vw;
+  background-color: blue;
+}
+
 .pic1{
 width: 20vh;
 height: 20vh;
