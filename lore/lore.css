@@ -53,9 +53,9 @@ display: block;
 }
 
 .square{
-display: flex;
+display: block;
 padding: 4vw;
-  background-color: blue;
+background-color: blue;
 }
 
 .stakz{
