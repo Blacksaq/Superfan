@@ -40,21 +40,3 @@ width: 20vh;
 height: 20vh;
 background-color: #ffffff;
 }
-
-.square2{
-display: flex;
-padding: 4vw;
-  background-color: blue;
-}
-
-.pic1{
-width: 20vh;
-height: 20vh;
-background-color: #ffffff;
-}
-
-.stakz1{
-background-color: #23d44a;
-width:55vw;
-height: 20vh; 
-}
