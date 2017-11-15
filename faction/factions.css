@@ -18,3 +18,55 @@ text-color: #ffffff;
 font-weight: bold;
 font-family: Impact;
 }
+
+.omni{
+display: block;
+}
+
+.square{
+display: flex;
+padding: 4vw;
+  background-color: blue;
+}
+
+.stakz{
+background-color: #23d44a;
+width:55vw;
+height: 20vh; 
+}
+
+.pic{
+width: 20vh;
+height: 20vh;
+background-color: #ffffff;
+}
+
+@media screen and (max-width: 800px){
+body{
+ width: 100vw;
+height: 100vh;
+display: flex;
+margin: 0;
+}
+  .omni{
+display: block;
+}
+
+.square{
+display: block;
+padding: 1vw;
+background-color: blue;
+}
+
+.stakz{
+background-color: #23d44a;
+width:91vw;
+height: 20vh; 
+}
+
+.pic{
+width: 20vh;
+height: 20vh;
+background-color: #ffffff;
+margin: auto;
+}
