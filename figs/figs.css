@@ -30,6 +30,7 @@ padding: 4vw;
 background-color: #23d44a;
 width:55vw;
 height: 20vh; 
+font-family: Play, sans-serif;
 }
 
 .pic{
@@ -53,7 +54,6 @@ display: block;
 display: block;
 padding: 1vw;
 background-color: blue;
-font-family: Play, sans-serif;
 }
 
 .stakz{
