@@ -53,13 +53,13 @@ display: block;
 display: block;
 padding: 1vw;
 background-color: blue;
+font-family: 'Play', sans-serif;
 }
 
 .stakz{
 background-color: #23d44a;
 width:91vw;
 height: 20vh; 
-font-family: 'Play', sans-serif;
 }
 
 .pic{
