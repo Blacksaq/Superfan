@@ -13,6 +13,12 @@ height: 100vw;
 text-color: #ffffff;
 }
 
+img{
+max-height: 100%;
+max-width: 100%;
+margin: auto;
+}
+
 p{
 text-decoration: underline;
 text-color: #ffffff;
