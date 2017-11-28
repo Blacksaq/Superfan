@@ -41,6 +41,12 @@ height: 20vh;
 background-color: #ffffff;
 }
 
+img{
+max-height: 100%;
+max-width: 100%;
+margin: auto;
+}
+
 @media screen and (max-width: 800px){
 body{
  width: 100vw;
