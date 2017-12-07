@@ -47,6 +47,8 @@ max-width: 100%;
 margin: auto;
 }
 .tunes{
+max-height: 100%;
+max-width: 100%;
 margin: auto;
 }
 @media screen and (max-width: 800px){
