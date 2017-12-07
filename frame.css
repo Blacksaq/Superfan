@@ -51,6 +51,7 @@ width 100vw;
 h1{
 color: #FFFAF7;
 font-family: Play, sans-serif;
+text-align: center;
 }
 	@media screen and (max-width: 800px){
 	body {
