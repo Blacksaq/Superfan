@@ -40,6 +40,11 @@ body {
 	width: calc(100vw/6);
 	background-color: #ffffff;
 }
+.banner{
+background-color: #ffffff;
+height: 10vh;
+width 100vw;
+}
 	@media screen and (max-width: 800px){
 	body {
 	width: 100vw;
