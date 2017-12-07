@@ -10,38 +10,38 @@ height: 90vw;
 .Lore{
 	height: 100vh;
 	width: calc(100vw/6);
-	background-color: #D4AF37;
+	background-color: #FF0D0D;
 }
 
 .Figures{
 	height: 100vh;
 	width: calc(100vw/6);
-	background-color: #00FFFF;
+	background-color: #E8370C;
 }
 
 .Factions{
 	height: 100vh;
 	width: calc(100vw/6);
-	background-color: #9168B2;
+	background-color: #545454;
 }
 
 .Warframes{
 	height: 100vh;
 	width: calc(100vw/6);
-	background-color: #545454;
+	background-color: #FF0D0D;
 	image: url(prime.png)
 }
 
 .Evolution{
 	height: 100vh;
 	width: calc(100vw/6);
-	background-color: #000000;
+	background-color: #E8370C;
 }
 
 .Art{
 	height: 100vh;
 	width: calc(100vw/6);
-	background-color: #ffffff;
+	background-color: #545454;
 }
 .banner{
 background-color: #000000;
