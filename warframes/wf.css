@@ -46,6 +46,11 @@ max-height: 100%;
 max-width: 100%;
 margin: auto;
 }
+
+.banner{
+background-color: #ffffff;
+
+}
 .tunes{
 max-height: 100%;
 max-width: 100%;
