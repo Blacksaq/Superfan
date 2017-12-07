@@ -74,40 +74,5 @@ text-align: center;
 	margin: 0;
 }
 
-	.Lore{
-	height: calc(100vh/6);
-	width: 100vw;
-	background-color: #FF0D0D;
-}
+	
 
-	.Figures{
-	height: calc(100vh/6);
-	width: 100vw;
-	background-color: #FF5802;
-}
-
-	.Factions{
-	height: calc(100vh/6);
-	width: 100vw;
-	background-color: #545454;
-}
-
-	.Warframes{
-	height: calc(100vh/6);
-	width: 100vw;
-	background-color: #FF0D0D;
-	image: url(prime.png)
-}
-
-	.Evolution{
-	height: calc(100vh/6);
-	width: 100vw;
-	background-color: #FF5802;
-}
-
-	.Art{
-	height: calc(100vh/6);
-	width: 100vw;
-	background-color:  #545454;
-}
-}
