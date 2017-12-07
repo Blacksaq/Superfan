@@ -3,13 +3,16 @@ body {
 	margin: 0;
 }
 .collumns{
-display: flex;
-width: 100vw;
-height: 90vw;
-vertical-align:middle;
+	display: flex;
+	width: 100vw;
+	height: 90vw;
+	vertical-align:middle;
 }
+
 a:link {
 	text-decorations: none;
+	margin-top:0px; /* need this to clear the default margin */
+    	margin-bottom:0px;
 }
 .Lore{
 	height: 100vh;
