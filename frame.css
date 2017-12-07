@@ -8,6 +8,9 @@ width: 100vw;
 height: 90vw;
 vertical-align:middle;
 }
+a:link {
+	text-decorations: none;
+}
 .Lore{
 	height: 100vh;
 	width: calc(100vw/6);
