@@ -6,6 +6,7 @@ body {
 display: flex;
 width: 100vw;
 height: 90vw;
+vertical-align:middle;
 }
 .Lore{
 	height: 100vh;
