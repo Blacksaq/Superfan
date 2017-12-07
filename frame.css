@@ -44,9 +44,13 @@ height: 90vw;
 	background-color: #ffffff;
 }
 .banner{
-background-color: #ffffff;
+background-color: #000000;
 height: 10vh;
 width 100vw;
+}
+h1{
+font-color: #ffffff;
+font-family: Play, sans-serif;
 }
 	@media screen and (max-width: 800px){
 	body {
