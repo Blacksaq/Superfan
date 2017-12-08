@@ -1,5 +1,5 @@
 body{
-background-color: #D4AF37;
+background-color: #545454;
 width: 100vw;
 height: 100vh;
 display: flex;
@@ -13,6 +13,9 @@ height: 100vw;
 text-color: #ffffff;
 }
 
+a:link {
+  text-decorations: none;
+}
 img{
 max-height: 100%;
 max-width: 100%;
@@ -33,22 +36,21 @@ display: block;
 .square{
 display: flex;
 padding: 4vw;
-  background-color: blue;
 }
 
 .stakz{
-background-color: #23d44a;
 width:55vw;
 height: 20vh; 
+margin-top:0px; /* need this to clear the default margin */
+margin-bottom:0px;
 }
 
 .pic{
 width: 20vh;
 height: 20vh;
-background-color: #ffffff;
 }
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 414px){
 body{
  width: 100vw;
 height: 100vh;
@@ -62,11 +64,9 @@ display: block;
 .square{
 display: block;
 padding: 1vw;
-background-color: blue;
 }
 
 .stakz{
-background-color: #23d44a;
 width:91vw;
 height: 20vh; 
 }
@@ -74,6 +74,5 @@ height: 20vh;
 .pic{
 width: 20vh;
 height: 20vh;
-background-color: #ffffff;
 margin: auto;
 }
