@@ -1,5 +1,5 @@
 body{
-background-color: #ffffff;
+background-color: #FF5802;
 width: 100vw;
 height: 100vh;
 display: flex;
@@ -7,7 +7,7 @@ margin: 0;
 }
 
 .back{
-background-color: #FF5802;
+background-color: #000000;
 width: 5vw;
 height: 100vw;
 }
