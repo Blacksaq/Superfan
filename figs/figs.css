@@ -1,5 +1,5 @@
 body{
-background-color: #00FFFF;
+background-color: ##FF0D0D;
 width: 100vw;
 height: 100vh;
 display: flex;
@@ -28,11 +28,9 @@ display: block;
 .square{
 display: flex;
 padding: 4vw;
-  background-color: blue;
 }
 
 .stakz{
-background-color: #23d44a;
 width:55vw;
 height: 20vh; 
 font-family: Play, sans-serif;
@@ -40,8 +38,6 @@ font-family: Play, sans-serif;
 
 .pic{
 width: 20vh;
-height: 20vh;
-background-color: #ffffff;
 }
 
 @media screen and (max-width: 800px){
@@ -58,21 +54,14 @@ display: block;
 .square{
 display: block;
 padding: 1vw;
-background-color: blue;
 }
 
 .stakz{
-background-color: #23d44a;
 width:91vw;
 height: 20vh; 
 }
 
 .pic{
 width: 20vh;
-height: 20vh;
-background-color: #ffffff;
 margin: auto;
 }
-  .1{
-  
-  }
