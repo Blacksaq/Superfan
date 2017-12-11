@@ -67,11 +67,9 @@ display: block;
 .square{
 display: block;
 padding: 1vw;
-background-color: blue;
 }
 
 .stakz{
-background-color: #23d44a;
 width:91vw;
 height: 20vh; 
 }
@@ -79,6 +77,4 @@ height: 20vh;
 .pic{
 width: 20vh;
 height: 20vh;
-background-color: #ffffff;
-margin: auto;
 }
