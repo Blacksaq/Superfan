@@ -13,9 +13,10 @@ height: 100vw;
 }
 a{
 color:#ffffff;
+text-decoration: none;
 }
 p{
-text-decoration: underline;
+text-decoration: none;
 text-color: #ffffff;
 font-weight: bold;
 font-family: Play, sans-serif;
@@ -28,11 +29,9 @@ display: block;
 .square{
 display: flex;
 padding: 4vw;
-  background-color: blue;
 }
 
 .stakz{
-background-color: #23d44a;
 width:55vw;
 height: 20vh; 
 }
@@ -40,7 +39,6 @@ height: 20vh;
 .pic{
 width: 20vh;
 height: 20vh;
-background-color: #ffffff;
 }
 
 img{
