@@ -11,10 +11,11 @@ background-color: #000000;
 width: 5vw;
 height: 100vw;
 }
-
+a{
+color: #ffffff;
+}
 p{
-text-decoration: underline;
-text-color: #ffffff;
+text-decoration: none;
 font-weight: bold;
 font-family: Play, sans-serif;
 }
