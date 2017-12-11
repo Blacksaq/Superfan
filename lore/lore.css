@@ -15,6 +15,7 @@ text-color: #ffffff;
 
 a:link {
   text-decorations: none;
+  color: #ffffff;
 }
 img{
 max-height: 100%;
@@ -23,10 +24,10 @@ margin: auto;
 }
 
 p{
-text-decoration: underline;
+text-decoration: none;
 text-color: #ffffff;
 font-weight: bold;
-font-family: Impact;
+font-family: Play, sans-serif;
 }
 
 .omni{
@@ -43,7 +44,6 @@ width:55vw;
 height: 20vh; 
 margin-top:0px; /* need this to clear the default margin */
 margin-bottom:0px;
-font-family: Play, sans-serif;
 }
 
 .pic{
