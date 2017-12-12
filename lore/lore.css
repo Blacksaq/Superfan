@@ -51,7 +51,7 @@ width: 20vh;
 height: 20vh;
 }
 
-@media screen and (max-width: 414px){
+@media screen and (max-width: 800px){
 body{
  width: 100vw;
 height: 100vh;
