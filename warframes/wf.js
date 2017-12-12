@@ -13,3 +13,7 @@ function shadowStalker(e){
 	document.getElementById("excal").pause();
 	document.getElementById("loki").play();
 }
+
+function ex(elem){
+	elem.classList.toggle("e_prime");
+}
