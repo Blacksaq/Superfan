@@ -57,8 +57,10 @@ cursor:pointer;
 max-height: 100%;
 max-width: 100%;
 margin: auto;
-
 }
+
+.e_prime {content:url(ep.png);}
+
 @media screen and (max-width: 800px){
 body{
  width: 100vw;
