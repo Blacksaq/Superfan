@@ -17,3 +17,23 @@ function shadowStalker(e){
 function ex(elem){
 	elem.classList.toggle("e_prime");
 }
+
+function ash(elem){
+	elem.classList.toggle("a_prime");
+}
+
+function nek(elem){
+	elem.classList.toggle("n_prime");
+}
+
+function vo(elem){
+	elem.classList.toggle("v_prime");
+}
+
+function fr(elem){
+	elem.classList.toggle("f_prime");
+}
+
+function emb(elem){
+	elem.classList.toggle("em_prime");
+}
