@@ -60,6 +60,11 @@ margin: auto;
 }
 
 .e_prime {content:url(ep.png);}
+.a_prime {content:url(ap.png);}
+.n_prime {content:url(np.png);}
+.v_prime {content:url(vp.png);}
+.f_prime {content:url(fp.png);}
+.em_prime {content:url(emp.png);}
 
 @media screen and (max-width: 800px){
 body{
